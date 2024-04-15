@@ -1,8 +1,6 @@
 # Testing
 
-[Check this page](/)
+[comment]: this relative path works correctly inside github repo and on gitpage (...github.io)
 
-[comment]: redundant relative path for project A
-
-[Project A in Testing Folder](/Testing/subproject-a)\
+[Project A in Testing Folder](subproject-a)\
 [Project B in Testing Folder](subproject-b)

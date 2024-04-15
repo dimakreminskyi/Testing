@@ -1,6 +1,6 @@
 # Testing
 
-[Check this page](Testing)
+[Check this page](/Testing)
 
 [comment]: redundant relative path for project A
 
